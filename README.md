@@ -38,5 +38,5 @@ built following relational database design principles.
 ## Academic Context
 
 Developed at Atlantic Technological University (ATU), Sligo — 
-BSc (Hons) Computer Science, 1st Semester, Information Systems 
+Higher Diploma in Computer Science, 1st Semester, Information Systems 
 Module.
